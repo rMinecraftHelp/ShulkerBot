@@ -28,4 +28,6 @@ They have been banned.
 |2|pm test|[Link](https://old.reddit.com/r/minecrafthelp/comments/kt7ooz/anyone_know_how_to_get_rid_of_the_yellow_squares/)|
 |3|rule 4|[Link](/r/MinecrafthelpModCopy/comments/klzbvv/bedrock_test_post_2/ghbra8s/)|
 
-When you summon the bot with `!Strike` it will remove your comment and reply directly to the original comment. 
+# Credits
+ 
+ This bot was originally coded by [u/ItsTheRedditPolice](https://old.reddit.com/u/ItsTheRedditPolice)
