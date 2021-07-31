@@ -3,7 +3,7 @@ A bot that keeps track of a users strikes on a sub.
 
 ShulkerBot keeps track of a users strikes, and automatically bans them on their third strike. 
 
-#Adding strikes
+# Adding strikes
 
 To add a strike you have two options:
 
@@ -14,7 +14,7 @@ To add a strike you have two options:
   * Example: __!strike u/Scottishcrafter Rule 1 https://www.reddit.com/message/messages/xwzaew__
    * The bot won't check it's messages until there's a new comment on the sub, so it's reply may be delayed. 
 
-#Example strike reply
+# Example strike reply
 
 A strike has been given to u/scottishcraftersalt and it looks like they have 3 or more strikes!
 
