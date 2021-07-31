@@ -8,10 +8,10 @@ ShulkerBot keeps track of a users strikes, and automatically bans them on their 
 To add a strike you have two options:
 
 * Reply to the problem comment/post with `!strike <reason>`    
- * Example: `!Strike [Rule 3](https://minecrafthelp.co.uk/rule3)` or `!Strike Bad language`
- * When the bot is summoned by comment, it will remove your comment automatically and reply to the op directly.  
+  * Example: `!Strike [Rule 3](https://minecrafthelp.co.uk/rule3)` or `!Strike Bad language`
+  * When the bot is summoned by comment, it will remove your comment automatically and reply to the op directly.  
 * Send a PM to u/ShulkerBot. Subject: `strike` Body: `!strike u/<username> <reason> <link>`
- * Example: __!strike u/Scottishcrafter Rule 1 https://www.reddit.com/message/messages/xwzaew__
+  * Example: __!strike u/Scottishcrafter Rule 1 https://www.reddit.com/message/messages/xwzaew__
    * The bot won't check it's messages until there's a new comment on the sub, so it's reply may be delayed. 
 
 #Example strike reply
